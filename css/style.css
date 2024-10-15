@@ -53,6 +53,8 @@ iframe {
   margin: 20px auto;
   border: 5px solid #FFF5CD;
 	border-radius: 8px;
+	width: 100%;
+	max-width: 560px;
 }
 
 @media (max-width: 600px){
