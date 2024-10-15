@@ -51,7 +51,8 @@ p {
 iframe {
   display: block;
   margin: 20px auto;
-  border: none;
+  border: 5px solid #FFF5CD;
+	border-radius: 8px;
 }
 
 @media (max-width: 600px){
