@@ -6,11 +6,17 @@ body {
     color: #333;
 }
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 h1,
 h2,
 h3,
 h4 {
     color: #2c3e50;
+    margin: center;
 }
 
 section {
