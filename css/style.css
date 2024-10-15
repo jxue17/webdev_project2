@@ -53,3 +53,13 @@ iframe {
   margin: 20px auto;
   border: none;
 }
+
+@media (max-width: 600px){
+  section {
+    padding: 15px;
+  }
+  
+  h1 {
+    font-size: 150%;
+  }
+}
