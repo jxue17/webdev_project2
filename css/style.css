@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #B7E0FF;
+    background-color: #D2E0FB;
     color: #333;
 }
 
@@ -14,7 +14,7 @@ h4 {
 }
 
 section {
-  background: #fff;
+  background: #FEF9D9;
   padding: 20px;
   margin: 20px auto;
   border-radius: 8px;
