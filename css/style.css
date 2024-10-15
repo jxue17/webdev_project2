@@ -14,47 +14,47 @@ h4 {
 }
 
 section {
-    background: #fff;
-    padding: 20px;
-    margin: 20px auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    max-width: 800px;
+  background: #fff;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
 }
 
 ul,
 ol {
-    list-style-type: square;
-    padding-left: 20px;
+  list-style-type: square;
+  padding-left: 20px;
 }
 
 a {
-    color: #2980b9;
-    text-decoration: none;
+  color: #2980b9;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin: 10px 0;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 10px 0;
 }
 
 p {
-    margin: 15px 0;
+  margin: 15px 0;
 }
 
 iframe {
   display: block;
   margin: 20px auto;
   border: 5px solid #FFF5CD;
-	border-radius: 8px;
-	width: 100%;
-	max-width: 560px;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 560px;
 }
 
 @media (max-width: 600px){
