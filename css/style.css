@@ -6,7 +6,10 @@ body {
     color: #333;
 }
 
-h1, h3 {
+h1,
+h2,
+h3,
+h4 {
     color: #2c3e50;
 }
 
@@ -19,7 +22,8 @@ section {
     max-width: 800px;
 }
 
-ul {
+ul,
+ol {
     list-style-type: square;
     padding-left: 20px;
 }
@@ -42,4 +46,10 @@ img {
 
 p {
     margin: 15px 0;
+}
+
+iframe {
+  display: block;
+  margin: 20px auto;
+  border: none;
 }
