@@ -39,7 +39,6 @@ ul,
 ol {
   list-style-type: square;
   padding-left: 20px;
-  float: left;
 }
 
 #main-nav {
@@ -69,7 +68,6 @@ ol {
 a {
   color: #2980b9;
   text-decoration: none;
-	float: left;
 }
 
 a:hover {
@@ -95,7 +93,6 @@ iframe {
   border-radius: 8px;
   width: 100%;
   max-width: 560px;
-  float: center;
 }
 
 @media (max-width: 600px){
