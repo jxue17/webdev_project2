@@ -52,6 +52,12 @@ ol {
   display: inline; 
 }
 
+#main-nav ul li a {
+  padding: 10px 20px; 
+  color: white; 
+  text-decoration: none;
+}
+
 a {
   color: #2980b9;
   text-decoration: none;
