@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Akaya Kanadaka", Arial;
+  font-family: "Akaya Kanadaka", Arial, sans-serif;
   line-height: 1.6;
   background-color: #D2E0FB;
   color: #333;
@@ -76,25 +76,6 @@ a:hover {
   text-decoration: underline;
 }
 
-#left-column {
-  float: left;
-  width: 60%;
-  padding: 1.25rem;
-}
-
-#right-column {
-  width: 35%;
-  padding: 1.25rem;
-  margin-left: 5%;
-}
-
-#left-column,
-#right-column {
-  background-color: #FEF9D9;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
 img {
   max-width: 100%;
   height: auto;
@@ -123,11 +104,6 @@ iframe {
 
   h1 {
     font-size: 2rem;
-  }
-
-  #left-column, #right-column {
-    width: 100%;
-    margin-left: 0;
   }
 
   #main-nav ul li {
