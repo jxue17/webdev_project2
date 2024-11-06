@@ -41,6 +41,13 @@ ol {
   padding-left: 20px;
 }
 
+#main-nav {
+  width: 100%;
+  text-align: center; 
+  position: relative; 
+  z-index: 100; 
+}
+
 #main-nav ul {
   list-style-type: none;
   margin: 0;
