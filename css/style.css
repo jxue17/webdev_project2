@@ -41,6 +41,17 @@ ol {
   padding-left: 20px;
 }
 
+#main-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block; 
+}
+
+#main-nav ul li {
+  display: inline; 
+}
+
 a {
   color: #2980b9;
   text-decoration: none;
