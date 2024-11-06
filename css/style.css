@@ -57,6 +57,8 @@ ol {
 
 #main-nav ul li {
   display: inline; 
+  float: left;
+  margin-left: 2rem;
 }
 
 #main-nav ul li a {
@@ -94,12 +96,21 @@ iframe {
   max-width: 560px;
 }
 
-@media (max-width: 600px){
+@media (max-width: 600px) {
   section {
-    padding: 15px;
+    padding: 1rem;
   }
-  
+
   h1 {
-    font-size: 150%;
+    font-size: 2rem;
+  }
+
+  #left-column, #right-column {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  #main-nav ul li {
+    margin-right: 1rem;
   }
 }
