@@ -82,6 +82,12 @@ a:hover {
   padding: 1.25rem;
 }
 
+#right-column {
+  width: 35%;
+  padding: 1.25rem;
+  margin-left: 5%;
+}
+
 #left-column,
 #right-column {
   background-color: #FEF9D9;
@@ -107,6 +113,7 @@ iframe {
   border-radius: 8px;
   width: 100%;
   max-width: 560px;
+  position: relative;
 }
 
 @media (max-width: 600px) {
