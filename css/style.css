@@ -39,6 +39,7 @@ ul,
 ol {
   list-style-type: square;
   padding-left: 20px;
+  float: left;
 }
 
 #main-nav {
@@ -79,6 +80,7 @@ img {
   height: auto;
   border-radius: 8px;
   margin: 10px 0;
+  float: center;
 }
 
 p {
@@ -92,6 +94,7 @@ iframe {
   border-radius: 8px;
   width: 100%;
   max-width: 560px;
+  float: center;
 }
 
 @media (max-width: 600px){
